@@ -11,3 +11,4 @@ Mimics the Spotify navigation bar, allowing users to navigate between different 
 Provides a basic music player interface for playing, pausing, and skipping tracks.
 
 #### Screenshots:
+![Screenshot (187)](https://github.com/Vasu-Tilva/Spotify_clone/assets/146325927/0d498715-1df2-4506-ba44-f5c7f9b8359b)
